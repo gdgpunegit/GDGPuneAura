@@ -1,21 +1,20 @@
 {
-    "FeatureEventName":"IWD'19 Jalandhar",
-    "EventImage":"IWD.jpg",
+    "FeatureEventName":"Devfest 19",
+    "EventImage":"devfest.jpeg",
     "EventDate":{
-        "Date":"31",
-        "Month":"3",
+        "Date":"28",
+        "Month":"09",
         "Year":"2019"
     },
     "EventTime":{
         "StartTime":"09:00 AM",
-        "EndTime":"04:30 PM"
+        "EndTime":"05:00 PM"
     },
-    "EventVenue":"Apeejay Institute of Management Technical Campus, Rama Mandi, Hoshiarpur Road, Jalandhar",
-    "EventVenueMapLink":"https://goo.gl/maps/4Z8pminYsp42",
-    "EventWebsite":"https://iwd.gdgjalandhar.com/",
-    "EventDescription":"International Women's Day (IWD) is marked on March 8th every year. In different regions, the focus of celebrations ranges from general respect and appreciation for women to a celebration of women's economic, political, and social achievements.",
-    "MeetupLink":"https://www.meetup.com/GDG-Jalandhar/events/253165595/",
-    "RegistrationLink":"https://docs.google.com/forms/d/e/1FAIpQLSciM-nL87uQd_it2ulou1mFv55aXqE9qSSnwL3No3fWhX8OzA/closedform",
-    "FBEventPageURL":"s"
+    "EventVenue":"JW Marriott Hotel Pune, Senapati Bapat Rd, Laxmi Society, Model Colony, Shivajinagar, Pune, Maharashtra 411053",
+    "EventVenueMapLink":"https://g.page/JWMarriottHotelPune",
+    "EventWebsite":"https://devfest.gdgpune.org/",
+    "EventDescription":"GDG DevFest Pune brings together the world class experts in Android, Web and Cloud technologies to Pune for a day full of sessions, workshops and showcases. Described by many as one of the amazing community conference for the developers, by the developers.",
+    "MeetupLink":"https://meetup.com/Pune-GDG",
+    "RegistrationLink":"https://devfest.gdgpune.org"
 }
 

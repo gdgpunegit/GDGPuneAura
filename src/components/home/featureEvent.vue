@@ -32,10 +32,11 @@
                <p class="google-font mt-2 mb-1" style="font-size:115%;color:#757575">
                    {{eventDetails.EventDescription}}
                </p>
-                
+                <!--
                 <v-btn color="#1a73e8" v-if="eventDetails.RegistrationLink.length>0" :href="eventDetails.RegistrationLink" target="_blank" class="ma-0 elevation-0 my-2" dark style="text-transform: capitalize;border-radius:5px;"> 
                     Registration Link
                 </v-btn>
+                -->
                 &nbsp;
 
                 <v-tooltip top slot="activator" v-if="eventDetails.EventWebsite.length>0">
@@ -57,16 +58,6 @@
                         <v-icon>fab fa-meetup</v-icon>
                     </v-btn>
                     <span>See {{eventDetails.FeatureEventName}} Meetup</span>
-                </v-tooltip>
-
-                <v-tooltip top slot="activator" v-if="eventDetails.FBEventPageURL.length>0">
-                    <v-btn flat icon color="#616161"
-                    :href="eventDetails.FBEventPageURL"
-                    target="_blank"
-                    class="ma-0 elevation-0" slot="activator" style="text-transform: capitalize;border-radius:5px;"> 
-                        <v-icon >fab fa-facebook-f</v-icon>
-                    </v-btn>
-                    <span>See {{eventDetails.FeatureEventName}} Facebook Page</span>
                 </v-tooltip>
             
             </v-flex> 
