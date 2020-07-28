@@ -88,5 +88,46 @@
         "github":"",
         "profileImage":"gautam.jpeg",
         "website":""
+    },
+
+    {
+        "name":"Yogesh Kulkarni",
+        "designation":"TFUG Pune Organizer",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
+        "profileImage":"yogesh.png",
+        "website":""
+    },
+
+    {
+        "name":"Manjusha",
+        "designation":"TFUG Pune Co Organizer",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
+        "profileImage":"manjusha.jpeg",
+        "website":""
+    },
+
+    {
+        "name":"Akshay Bahadur",
+        "designation":"TFUG Pune Co Organizer",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
+        "profileImage":"akshay.jpeg",
+        "website":""
+    },
+
+
+    {
+        "name":"Jayesh Ahire",
+        "designation":"TFUG Pune Co Organizer",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
+        "profileImage":"jayesh.jpeg",
+        "website":""
     }
 ]
