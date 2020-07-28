@@ -8,15 +8,7 @@
         "profileImage":"mahaveer.jpeg",
         "website":""
     },
-    {
-        "name":"Rajat Kabade",
-        "designation":"GDG Pune Co Organizer",
-        "twitter":"https://twitter.com/RajatKabade",
-        "linkedin":"https://www.linkedin.com/in/rajatkabade/",
-        "github":"",
-        "profileImage":"rajat.jpeg",
-        "website":""
-    },
+
     {
         "name":"Swapnil Jathar",
         "designation":"GDG Pune Co Organizer",
@@ -26,6 +18,7 @@
         "profileImage":"swapnil.jpg",
         "website":""
     },
+    
     {
         "name":"Pranoti Nandurkar",
         "designation":"WTM Pune Ambassador",
@@ -35,7 +28,7 @@
         "profileImage":"pranoti.jpg",
         "website":""
     },
-   
+
     {
         "name":"Aditi Soni",
         "designation":"WTM Pune Ambassador",
@@ -45,6 +38,17 @@
         "profileImage":"aditi.jpeg",
         "website":""
     },
+     
+    {
+        "name":"Namrata More",
+        "designation":"WTM Pune Ambassador",
+        "twitter":"https://twitter.com/namratamore_nm",
+        "linkedin":"http://linkedin.com/in/namratamore",
+        "github":"",
+        "profileImage":"namrata.jpeg",
+        "website":""
+    },
+
     {
         "name":"Utkarsh Wagh",
         "designation":"GDG Cloud Pune Organizer",
@@ -54,6 +58,28 @@
         "profileImage":"utkarsh.jpeg",
         "website":""
     },
+
+    {
+        "name":"Rajat Kabade",
+        "designation":"GDG Cloud Pune Co Organizer",
+        "twitter":"https://twitter.com/RajatKabade",
+        "linkedin":"https://www.linkedin.com/in/rajatkabade/",
+        "github":"",
+        "profileImage":"rajat.jpeg",
+        "website":""
+    },
+
+    {
+        "name":"Antrixsh Gupta",
+        "designation":"GDG Cloud Pune Co Organizer",
+        "twitter":"https://twitter.com/AntrixshG",
+        "linkedin":"https://in.linkedin.com/in/antrixsh-gupta-432329152",
+        "github":"",
+        "profileImage":"antrixsh.jpeg",
+        "website":""
+    },
+
+
     {
         "name":"Gautam Chitnis",
         "designation":"GDG Cloud Pune Co Organizer",
